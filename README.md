@@ -1,7 +1,7 @@
 # ¡Hola! Soy Fabiana 👋
 
 👩‍💻 **Ingeniera Industrial**  
-📚 Ivestigo en UTN - FRTL | Participando en proyectos de investigación con enfoque sustentable  
+📚 Investigo en UTN - FRTL | Participando en proyectos de investigación con enfoque sustentable  
 🧰 Intereses: Optimización de procesos · Análisis de datos · Eficiencia Energética · Industria 4.0 · Oil & Gas  
 
 🎯 **Estoy enfocada en ampliar mis habilidades IT**
