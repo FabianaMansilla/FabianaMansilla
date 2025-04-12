@@ -1,5 +1,7 @@
 # Hola, Soy @FabianaMansilla
+
 ** Ingeniera Industrial **
+
 Investigo en UTN - FRTL | Participo en proyecntos con enfoque sustentable
 Intereses: Optimización de Procesos - Análisis de datos - Eficiencia Energética - Industria 4.0 - Oil&Gas
 
