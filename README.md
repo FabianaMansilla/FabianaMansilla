@@ -2,7 +2,7 @@
 
 👩‍💻 **Ing. Industrial**
 
-📚 Investigo en UTN - FRTL | Participo en proyecntos con enfoque sustentable
+📚 Investigo en UTN - FRTL | Participo en proyectos con enfoque sustentable
 
 😎 Intereses: Optimización de Procesos - Análisis de datos - Eficiencia Energética - Industria 4.0 - Oil&Gas
 
